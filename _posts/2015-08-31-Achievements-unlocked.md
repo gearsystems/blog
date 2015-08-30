@@ -14,7 +14,7 @@ featured: true
 share: true
 ---
 
-August 28 2015 is a day of importance to GEAR Systems team since GEAR was pitched for the first time at [August Fest, Hyderabad](http://theaugustfest.com/) by [Sudheesh](http://sudheesh.gearsystems.org) and [Kranthi](http://kranthi.gearsystems.org).
+August 30 2015 is a day of importance to GEAR Systems team since GEAR was pitched for the first time at [August Fest, Hyderabad](http://theaugustfest.com/) by [Sudheesh](http://sudheesh.gearsystems.org) and [Kranthi](http://kranthi.gearsystems.org).
 
 As Founder of GEAR Systems [Sudheesh](http://sudheesh.gearsystems.org) says, "Dont worry about failure. You only need to be right once!", it turned out to be a great pitch for us at August fest with a whopping audience of 1000+ at [JRC Conventions and trade fairs](https://goo.gl/maps/1a4Ow). We presented our artillery involved at work and innovations we did, to achieve the sheer brilliance of GEAR, to the attendees of August Fest. We particularly received great feedback and accolades from Jayesh Ranjan, IAS , IT Secretary for Telangana State and he was inclined to our idea. We are really excited to work along with TS government and various other investors to scale up our system and bring it to v1.0 from beta stage.
 
@@ -28,4 +28,4 @@ PS: We appreciate [Team Illuminati](http://gearsystems.org/contributors/) for sh
 
 If you like [GEAR Systems](http://gearsystems.org/), you can contribute to us by sending pull requests for various code repositories at [GEAR Systems on github](http://github.com/gearsystems).
 
-Thanks for the love! GEAR Systems for a better society...
+Thanks for 	the love! GEAR Systems for a better society...
