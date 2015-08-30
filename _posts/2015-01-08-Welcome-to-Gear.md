@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Gear"
 description: 
 headline: 
-modified: 2014-07-23
+modified: 2015-01-08
 category: Welcome
 tags: [Welcome,Intro]
 imagefeature: 
